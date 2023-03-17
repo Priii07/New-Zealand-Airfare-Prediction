@@ -24,6 +24,7 @@ Data Set Description:
 	  - There are 26 airport pairs.
     
 Preliminary Data Exploration
+
 	- To begin with we checked the shape of the data set it has 162833 rows and 11 columns.
 	- After removing all the Null Values we have 162804 rows and 11 columns.
 	- Data type of all the columns is ‘str’ which we changed to their respective data types for e.g., all the data columns were encoded as ‘str’ so we 	     changed it to datetime.
