@@ -1,6 +1,6 @@
-# New-Zealand-Airfare-Prediction 
+# New-Zealand-Airfare-Prediction Using PySpark
 
-## Objective: 
+### Objective: 
 Analysis is being done on airline pricing practices and competition for airline carriers in New Zealand. The data set displays domestic airfares for New Zealand airlines on various domestic routes, especially for Air New Zealand, Jetstar, and SoundAir. Based on the above characteristics, the airlines compete with one another to predict domestic fares for various New Zealand carriers.
  
 ## Data Set Description: 
@@ -33,4 +33,5 @@ Analysis is being done on airline pricing practices and competition for airline 
 	- The primary airports are: Auckland (AKL), Christchurch(CHC), Wellington(WLG) and Queenstown(ZQN). 
 	- Secondary airport are: Dunedin (DUD), Napier/Hastings(NPE), New Plymouth(NPL), Nelson(NSN) and Palmerston North(PMR).
 	- There are 52 one way routes, out of which 12 are trunk routes i.e., between primary airports and 40 secondary routes.
+	
 
