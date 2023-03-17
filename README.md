@@ -1,9 +1,9 @@
-# New-Zealand-Airfare-Prediction
+# New-Zealand-Airfare-Prediction 
 
-Objective: 
+## Objective: 
 Analysis is being done on airline pricing practices and competition for airline carriers in New Zealand. The data set displays domestic airfares for New Zealand airlines on various domestic routes, especially for Air New Zealand, Jetstar, and SoundAir. Based on the above characteristics, the airlines compete with one another to predict domestic fares for various New Zealand carriers.
  
-Data Set Description: 
+## Data Set Description: 
 
 - Overview: By analyzing all the independent features with our dependent variable(fare) we will be predicting the price of the fare.
 - Number of rows and cols- We have 162833 rows and 11 columns.
@@ -24,11 +24,11 @@ Data Set Description:
 	  - The data set ranges from 19th September 2019 to 18th  December 2019,  a total of 90 days.
 	  - There are 26 airport pairs.
     
-Preliminary Data Exploration
+## Preliminary Data Exploration:
 
-	- To begin with we checked the shape of the data set it has 162833 rows and 11 columns.
-	- After removing all the Null Values we have 162804 rows and 11 columns.
-	- Data type of all the columns is ‘str’ which we changed to their respective data types for e.g., all the data columns were encoded as ‘str’ so we 	     changed it to datetime.
+	- To begin with the shape of the data set is 162833 rows and 11 columns.
+	- After removing all the Null Values the shape is 162804 rows and 11 columns.
+	- Data type of all the columns is ‘str’ which is changed to their respective data types for e.g., all the data columns were encoded as ‘str’ so we 	     changed it to datetime.
 	- Maximum Fare Price is $1364 , Minimum Fare Price is $32 and Average Fare Price is $411.
 	- The primary airports are: Auckland (AKL), Christchurch(CHC), Wellington(WLG) and Queenstown(ZQN). 
 	- Secondary airport are: Dunedin (DUD), Napier/Hastings(NPE), New Plymouth(NPL), Nelson(NSN) and Palmerston North(PMR).
