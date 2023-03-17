@@ -30,6 +30,7 @@ Preliminary Data Exploration
 	- After removing all the Null Values we have 162804 rows and 11 columns.
 	- Data type of all the columns is ‘str’ which we changed to their respective data types for e.g., all the data columns were encoded as ‘str’ so we 	     changed it to datetime.
 	- Maximum Fare Price is $1364 , Minimum Fare Price is $32 and Average Fare Price is $411.
-	- The primary airports are: Auckland (AKL), Christchurch(CHC), Wellington(WLG) and Queenstown(ZQN). Secondary airport are: Dunedin (DUD), 		  Napier/Hastings(NPE), New Plymouth(NPL), Nelson(NSN) and Palmerston North(PMR).
+	- The primary airports are: Auckland (AKL), Christchurch(CHC), Wellington(WLG) and Queenstown(ZQN). 
+	- Secondary airport are: Dunedin (DUD), Napier/Hastings(NPE), New Plymouth(NPL), Nelson(NSN) and Palmerston North(PMR).
 	- There are 52 one way routes, out of which 12 are trunk routes i.e., between primary airports and 40 secondary routes.
 
